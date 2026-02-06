@@ -16,4 +16,14 @@ The app allows users to search for any city worldwide and view temperature, humi
 •	HTML5, CSS3, JavaScript (ES6+)
 •	OpenWeather REST API, Fetch API
 •	Asynchronous JS, JSON parsing, Dynamic DOM updates
-•	Responsive design, Error handling, Proxy-based CORS bypass
+•	Responsive design, Error handling, Proxy-based CORS bypass.
+4.	Project Structure
+SkyCast/
+│── index.html
+│── css/
+│ ├── style.css
+│── js/
+│ ├── app.js
+│── images
+│── README.md
+
